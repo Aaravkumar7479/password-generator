@@ -40,7 +40,7 @@ You can choose the password length and decide whether to include uppercase lette
 ## ⚙ Installation & Setup
 1. Clone the repository  
    ```bash
-    git clone https://github.com/your-username/password-generator.git
+    git clone https://github.com/Aaravkumar7479/password-generator.git
    ```
 2. Navigate to the project folder
    ```bash
