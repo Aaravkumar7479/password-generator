@@ -18,14 +18,14 @@ You can choose the password length and decide whether to include uppercase lette
 
 ## 🛠️ Tech Stack
 - **Language:** Python 3  
-- **Modules Used:** `random`, `string` (built-in)  
+- **Module Used:** `random` (built-in)  
 - **Environment:** Works on Windows, macOS, Linux, and GitHub Codespaces
 
   ---
   
   
 ## 🤝 Contributing
-  *Contributions are welcome!*
+  *Contributions are welcome!* 
   If you’d like to improve this project:
 
   - Fork the repository
