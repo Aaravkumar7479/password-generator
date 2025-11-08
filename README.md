@@ -20,30 +20,30 @@ You can choose the password length and decide whether to include uppercase lette
 - **Modules Used:** `random`, `string` (built-in)  
 - **Environment:** Works on Windows, macOS, Linux, and GitHub Codespaces
   ---
-  ## 🤝 Contributing
-  Contributions are welcome!
+## 🤝 Contributing
+  *Contributions are welcome!*
   If you’d like to improve this project:
 
-    -Fork the repository
-    -Create a new branch (feature-branch)
-    - Make your changes and commit them
-    -Open a pull request
+  - Fork the repository
+  - Create a new branch (feature-branch)
+  - Make your changes and commit them
+  - Open a pull request
 
 ---
 
 ## ⚙ Installation & Setup
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/password-generator.git
-
+  git clone https://github.com/your-username/password-generator.git
+    ```
 2. Navigate to the project folder
   ```bash
   cd password-generator
  ```
 4. Run the program
    ```bash
-   python file-1.py
-   ```
+  python file-1.py
+    ```
 ---
 ### 💻 Run in GitHub Codespaces
 1. Open your repository on GitHub.
@@ -54,6 +54,7 @@ You can choose the password length and decide whether to include uppercase lette
 ```bash
  python file-1.py
 ```
+
 5. Follow the prompts to generate your password — no installation needed!
-   ---
+
 
