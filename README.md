@@ -1,6 +1,7 @@
 # 🔐 Password Generator Tool
 
 ## 📝 Overview
+
 A Python-based password generator that helps you create strong, secure, and customizable passwords.  
 You can choose the password length and decide whether to include uppercase letters, numbers, and special characters.
 
@@ -55,7 +56,7 @@ You can choose the password length and decide whether to include uppercase lette
 
 ### 💻 Run in GitHub Codespaces
 1. Open your repository on GitHub.
-2.Click the Code button → choose the Codespaces tab.
+2. Click the Code button → choose the Codespaces tab.
 3. Click Create codespace on main to open it in the cloud editor.
 4. Once the Codespace loads, open the terminal at the bottom and run:
 
